@@ -5,6 +5,7 @@ const List<String> currenciesList = [
   'AUD',
   'BRL',
   'CAD',
+  'CANN',
   'CNY',
   'EUR',
   'GBP',
